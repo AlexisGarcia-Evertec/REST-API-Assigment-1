@@ -17,7 +17,7 @@ Attached to the RestApi class.
 ```
 
 ## Author
-* **Alexis Garcia** - *Initial Work* - https://github.com/AlexisGarcia1
+* **Alexis Garcia** - https://github.com/AlexisGarcia1
 
 ## Acknowledgements
 
