@@ -16,4 +16,11 @@ Spring Tool Suite 4 installed.
 Attached to the RestApi class.
 ```
 
+## Author
+* **Alexis Garcia** - *Initial Work* - https://github.com/AlexisGarcia1
+
+## Acknowledgements
+
+* Thanks to David Dang and all Champions for the support.
+
 Happy learning!
