@@ -21,6 +21,6 @@ Attached to the RestApi class.
 
 ## Acknowledgements
 
-* Thanks to David Dang and all Champions for the support.
+* Thanks to David Dang and all Champions for their support.
 
 Happy learning!
