@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>task.spring.io</groupId>
-	<artifactId>DemoMicroservice</artifactId>
+	<artifactId>RESTAssigment</artifactId>
 	<version>Version1.1</version>
-	<name>DemoMicroservice</name>
-	<description>TechTalk REST Hands On Labs</description>
+	<name>Assigment</name>
+	<description>REST Simple Project</description>
 
 	<properties>
 		<java.version>1.8</java.version>
