@@ -30,7 +30,7 @@ public class RestAPI {
 	//private static Mensaje mensaje = new Mensaje();
 	
 	@GetMapping(value="/greeting{elementIndex}")
-	public ResponseEntity<Mensaje> getNames() {
+	public ResponseEntity<Mensaje> getMessages() {
 		/*
 		 * GET is only used to retrieve data. Specify which message you want to extract from listaDeMensajes ArrayList<>. 
 		 *
@@ -47,7 +47,7 @@ public class RestAPI {
 	}
 	
 	@PostMapping(value="/greeting/{message}")
-	public ResponseEntity<String> createNames() {
+	public ResponseEntity<String> createMessages() {
 		/*
 		 * POST is used to create new resource (data)
 		 *
@@ -64,7 +64,7 @@ public class RestAPI {
 	}
 	
 	@PutMapping(value="/greeting/{message}")
-	public ResponseEntity<String> updateName() {
+	public ResponseEntity<String> updateMessages() {
 		/*
 		 * PUT is used to update existing resource (data)
 		 * 
@@ -82,7 +82,7 @@ public class RestAPI {
 	}
 	
 	@DeleteMapping(value="/greeting/{byMessageElementIndex}")
-	public ResponseEntity<String> removeName() {
+	public ResponseEntity<String> removeMessages() {
 		/*
 		 * DELETE is used to remove a resource (data)
 		 * 
